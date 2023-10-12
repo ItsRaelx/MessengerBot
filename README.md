@@ -61,7 +61,3 @@ python3 main.py
 - Ensure your Facebook Messenger bot and webhook are correctly set up and integrated.
 - Before deploying, always ensure your environment variables are securely configured.
 - This is a basic implementation. For more advanced features or security measures, consider enhancing the codebase further.
-
-## Contribution
-
-Feel free to fork the project, open an issue, or submit a pull request.
